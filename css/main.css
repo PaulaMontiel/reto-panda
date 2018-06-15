@@ -1,0 +1,77 @@
+.bg-pink{
+    background-color: salmon;
+}
+h1{
+    text-align: right;
+}
+h5{
+   text-align: right 
+}
+.pd-sections{
+    padding: 5% 0;
+}
+.tc-white{
+    color: white;
+}
+.bg-panda-header{
+    background-image: url(../img/uno.jpg);
+    padding: 20% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.bg-green{
+    background-color: #93C572;
+}
+p{
+    text-align: center;
+    padding: 1em;
+}
+.b-text{
+    border-top: 1em solid salmon;
+    border-bottom: 1em solid salmon;
+}
+h3{
+    text-align: center;
+    padding-top: 1em;
+}
+.bg-panda-dos{
+    background-image: url(../img/dos.jpg);
+    padding: 20% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.col-center{
+    float: none;
+    margin: 0 auto;
+}
+.bg-panda-tres{
+    background-image: url(../img/tres.jpg);
+    padding: 20% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.margin-img{
+    margin: 2%;
+
+}
+.border-img{
+    border: 0.4em solid white;
+}
+h2{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+
+}
+.margin-div{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+h4{
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
